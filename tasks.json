@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title": "Buy milk",
+    "priority": "LOW",
+    "due_date": "2025-09-05",
+    "is_completed": false
+  }
+]
